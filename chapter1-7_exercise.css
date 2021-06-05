@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual{
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  height: 400px;
+  background-position: bottom;
+}
+
+main{
+  width: 840px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.main-visual-text{
+  padding: 20px 0 0 20px;
+  font-size: 20px;
+}
+
+.blog-item{
+  text-align: left;
+  border-bottom: 1px solid black;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
